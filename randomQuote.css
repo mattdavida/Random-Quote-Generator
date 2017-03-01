@@ -1,0 +1,34 @@
+body {
+  font-family: "Timew New Roman";
+}
+
+h1 {
+  font-size: 50px;
+}
+p {
+
+  font-style: italic;
+  font-size: 20px;
+  padding: 20px;
+}
+.quotes {
+  width: 33%;
+  margin-right: auto;
+  margin-left: auto;
+  border-color: white;
+  border-style: solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  height: auto;
+}
+.quotes {
+  font-size: 30px;
+}
+.author {
+  font-size: 20px;
+  font-style: italic;
+}
+.jumbotron {
+  background-color: orange;
+}
